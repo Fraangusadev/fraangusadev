@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hola 👋, me llamo Francisco Guayazan</h1>
 <h3 align="center">¡Soy un desarrollador de software apasionado!</h3>
 </br>
